@@ -8,15 +8,6 @@ A main class (Main.java) is the driver class to load and test Sudoku puzzles, an
 
 Input: (9-hard.txt)
 
-8 0 0 0 0 0 0 0 0 
-0 0 3 6 0 0 0 0 0 
-0 7 0 0 9 0 2 0 0
-0 5 0 0 0 7 0 0 0 
-0 0 0 0 4 5 7 0 0
-0 0 0 1 0 0 0 3 0 
-0 0 1 0 0 0 0 6 8
-0 0 8 5 0 0 0 1 0 
-0 9 0 0 0 0 4 0 0 
-
 Output: 
+
 ![image](https://user-images.githubusercontent.com/44689459/169754963-646be198-441c-4757-901c-7f646a179df3.png)
